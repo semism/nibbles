@@ -1,4 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/semism/nibbles/main/",
-  "nibble": ["rrxova.wav"]
+  "nibble": ["rrxova.wav"],
+  "animals": ["wolves.wav"],
+  "tones": ["fanfare.wav"]
 }
