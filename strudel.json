@@ -3,5 +3,6 @@
   "nibble": ["rrxova.wav"],
   "animals": ["wolves.wav"],
   "tones": ["fanfare.wav", "flute.wav"],
-  "beqar": ["beqar_tune.wav", "beqar_vox.mp3"]
+  "beqar": ["beqar_tune.wav", "beqar_vox.mp3"],
+  "skelet": ["skelet.wav"]
 }
